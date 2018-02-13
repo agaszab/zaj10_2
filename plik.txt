@@ -1,0 +1,3 @@
+Typ enum w takiej formie byłby w gruncie rzeczy niezbyt użyteczny,
+bo oprócz kontroli typu nie daje nam zbyt wiele pożytku,
+a co najwyżej komplikuje wczytanie danych od użytkownika.
